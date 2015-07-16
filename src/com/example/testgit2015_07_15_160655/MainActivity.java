@@ -14,6 +14,8 @@ public class MainActivity extends ActionBarActivity {
 		
 		int a;
 		float b;
+		double c;
+		boolean d;
 	}
 
 	@Override
